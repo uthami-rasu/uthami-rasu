@@ -11,8 +11,7 @@
 - 🌱 Currently mastering **Data Structures & Algorithms**  
 - 👯 Looking to collaborate on **ML/AI projects**  
 - 💡 Passionate about building **scalable web solutions**  
-- ⚡ Fun fact: I can speak **Japanese**  
-- 🎯 2024 Goals: Contribute more to open source projects  
+- 🎯 Goals: Contribute more to open source projects  
 
 
 ### 📬 Let's Connect
